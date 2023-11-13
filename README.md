@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sachinkumar490
-- 👀 I’m interested in Software and Development 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @sachin
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
